@@ -5,7 +5,7 @@ description: This mural was designed by women imprisoned at Riker's Island, a ja
   In addition, the children designed a mural that the mothers then painted inside
   a building at Rikers. Read more about the project, If Walls Could Talk. (Image courtesy
   of Matt Green on Flickr. CC NC-BY-SA.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/f9aca97f4db4369de8f23202c7977ba7_wgs-s10s13-th.jpg
+file: /media/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/f9aca97f4db4369de8f23202c7977ba7_wgs-s10s13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This mural was designed by women imprisoned at Riker's Island, a jail in
@@ -19,6 +19,8 @@ image_metadata:
   image-alt: A photographA mural painted on a wall features a body of water in which
     an African-American boy and a Caucasian girl stand.  The image of a woman surrounded
     by children is next to them. of a pregnant woman, in a blue shirt, holds her belly.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Mural designed by women imprisoned at Riker's Island
 uid: f9aca97f-4db4-369d-e8f2-3202c7977ba7
