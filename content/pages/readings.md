@@ -178,18 +178,18 @@ Reynolds, Tina. "Glossary of Terms." In *Interrupted Life: Experiences of Incarc
 
 "[Incarcerated Women (PDF)](http://www.sentencingproject.org/doc/publications/cc_Incarcerated_Women_Factsheet_Sep24sp.pdf)." fact sheet. The Sentencing Project.
 
-Young, Robin, and Jeremy Hobson. "[Dramatic Shift in U.S. Prison Populations](http://hereandnow.wbur.org/2013/03/28/women-prison-racial)." *Here and Now* on NPR. March 28, 2013.    
+Young, Robin, and Jeremy Hobson. "[Dramatic Shift in U.S. Prison Populations](http://hereandnow.wbur.org/2013/03/28/women-prison-racial)." *Here and Now* on NPR. March 28, 2013.     
 (WBUR interview with Marc Mauer of the Sentencing Project. WBUR has a link to Mauer's new report on the changing racial dynamics of women's imprisonment, if you are interested in learning more.)
 
 Flavin, Jeanne. "Bad Mothers." Chapter 7 in *Our Bodies, Our Crimes: The Policing of Women's Reproduction in America*. New York University Press, 2010, pp. 139–63, and notes on pp. 241–52. ISBN: 9780814727911.
 
-Escober, Martha. "ASFA and the Impact on Imprisoned Migrant Women and Their Children." In *Razor Wire Women: Prisoners, Activists, Scholars, and Artists*. Edited by Jodie Lawston and Ashley Lucas. State University of New York Press, 2011. ISBN: 9781438435329.    
+Escober, Martha. "ASFA and the Impact on Imprisoned Migrant Women and Their Children." In *Razor Wire Women: Prisoners, Activists, Scholars, and Artists*. Edited by Jodie Lawston and Ashley Lucas. State University of New York Press, 2011. ISBN: 9781438435329.     
 (You can skip ahead and read pp. 80–8 if pressed for time, begin reading at "Mothering from the Inside" and read the two case studies and conclusion.)
 
-Solinger, Rickie, Paula C. Johnson, et al. *Interrupted Life: Experiences of Incarcerated Women in the United States*. University of California Press, 2010. ISBN: 9780520258891.    
+Solinger, Rickie, Paula C. Johnson, et al. *Interrupted Life: Experiences of Incarcerated Women in the United States*. University of California Press, 2010. ISBN: 9780520258891.     
 (Selections, including first–person accounts of pregnancy and mothering from prison and of advocacy work by: Kimberly Burke, Tabitha and Christy Hall, Kebby Warner, Kathy Boudin, Joanne Archibald, Sophia Sanchez, Kemba Smith)
 
-Kraft-Stolar, Tamar. "[A Fair Chance for Families Separated by Prison](http://northstarfund.org/blog/2010/06/a-fair-chance-for-families-separated-by-prison.php)." Community Blog, North Star Fund. June 30, 2010.
+Kraft-Stolar, Tamar. "A Fair Chance for Families Separated by Prison." Community Blog, North Star Fund. June 30, 2010.
 
 Hsu, Andrea. "[Difficult Births: Laboring and Delivering in Shackles](http://www.npr.org/templates/story/story.php?storyId=128563037)." *All Things Considered*, NPR. July 16, 2010.
 
