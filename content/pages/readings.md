@@ -28,9 +28,9 @@ Thinking about Reproduction and Politics
 
 Petchesky, Rosalind. "Beyond 'A Woman's Right to Choose' Feminist Ideas about Reproductive Rights." In *The Reproductive Rights Reader: Law, Medicine, and the Construction of Motherhood*. Edited by Nancy Ehrenreich. New York University Press, 2008, pp. 106–10. ISBN: 9780814722312. \[Preview with [Google Books](http://books.google.com/books?id=JcxnTI-dz2cC&pg=PA106#v=onepage)\]
 
-Baer, Judith A., and Leslie Goldstein. "[Muller v. Oregon](http://en.wikipedia.org/wiki/Muller_v._Oregon) (1908)." In *The Constitutional and Legal Rights of Women: Cases in Law and Social Change*. Oxford University Press, 2006. ISBN: 9780195330748.
+Baer, Judith A., and Leslie Goldstein. "[Muller v. Oregon](https://en.wikipedia.org/wiki/Muller_v._Oregon) (1908)." In *The Constitutional and Legal Rights of Women: Cases in Law and Social Change*. Oxford University Press, 2006. ISBN: 9780195330748.
 
-Eastman, Crystal. "[Now We Can Begin: What's Next?](http://womenshistory.about.com/library/etext/bl_eastman_crystal_1920.htm)" (1920). Reprinted by about.com
+Eastman, Crystal. "[Now We Can Begin: What's Next?](https://www.thoughtco.com/crystal-eastman-biography-3530413)" (1920). Reprinted by about.com
 
 Cade Bambara, Toni, ed. "The Pill: Genocide or Liberation? (1969)" In *The Black Woman: An Anthology*. Washington Square Press, 2005, pp. 52–7. ISBN: 9780743476973.
 
@@ -94,7 +94,7 @@ Parker, Willie Parker. "[A Perspective on Later Abortion…from Someone Who Does
 
 "[Roe at 40: New Infographics Illustrate Key Facts about Abortion in the United States](https://thefemalevoter.wordpress.com/2013/01/08/roe-at-40-new-infographics-illustrate-key-facts-about-abortion-in-the-united-states/)." Guttmacher Institute. January 8, 2013.
 
-[1 in 3 website](http://www.1in3campaign.org/). Advocates for Youth.
+{{% resource_link "c8f8bdc4-91ec-4fa6-9fb7-170750e54f2a" "1 in 3 website." %}} Advocates for Youth.
 
 Kumar, Anu. "[Abortion, the States and the World Health Organization](http://www.huffingtonpost.com/anu-kumar/who-abortion-rights_b_1739748.html)." *Huffington Post*. August 10, 2012.
 
@@ -172,21 +172,21 @@ Mencimer, Stephanie. "[The GOP's Dead–End Marriage Program](http://www.motherj
 Imprisoned Mothers and Mothers with Criminal Records
 {{< tdclose >}}{{< tdopen >}}
 
-Documentary: ["When the Bough Breaks: Children of Mothers in Prison](https://www.academicvideostore.com/video/when-bough-breaks-children-women-prison)." Directed by Jill Evans Petzall and Deeds Rogers. 58 min, 2001. 
+Documentary: "{{% resource_link "c0481e64-f273-4af8-bc3f-0516b10086a6" "When the Bough Breaks: Children of Mothers in Prison" %}}." Directed by Jill Evans Petzall and Deeds Rogers. 58 min, 2001. 
 
 Reynolds, Tina. "Glossary of Terms." In *Interrupted Life: Experiences of Incarcerated Women in the United States*. University of California Press, 2010. ISBN: 9780520258891. (*Read this glossary first*.)
 
 "[Incarcerated Women (PDF)](http://www.sentencingproject.org/doc/publications/cc_Incarcerated_Women_Factsheet_Sep24sp.pdf)." fact sheet. The Sentencing Project.
 
-Young, Robin, and Jeremy Hobson. "[Dramatic Shift in U.S. Prison Populations](http://hereandnow.wbur.org/2013/03/28/women-prison-racial)." *Here and Now* on NPR. March 28, 2013.     
+Young, Robin, and Jeremy Hobson. "[Dramatic Shift in U.S. Prison Populations](http://hereandnow.wbur.org/2013/03/28/women-prison-racial)." *Here and Now* on NPR. March 28, 2013.            
 (WBUR interview with Marc Mauer of the Sentencing Project. WBUR has a link to Mauer's new report on the changing racial dynamics of women's imprisonment, if you are interested in learning more.)
 
 Flavin, Jeanne. "Bad Mothers." Chapter 7 in *Our Bodies, Our Crimes: The Policing of Women's Reproduction in America*. New York University Press, 2010, pp. 139–63, and notes on pp. 241–52. ISBN: 9780814727911.
 
-Escober, Martha. "ASFA and the Impact on Imprisoned Migrant Women and Their Children." In *Razor Wire Women: Prisoners, Activists, Scholars, and Artists*. Edited by Jodie Lawston and Ashley Lucas. State University of New York Press, 2011. ISBN: 9781438435329.     
+Escober, Martha. "ASFA and the Impact on Imprisoned Migrant Women and Their Children." In *Razor Wire Women: Prisoners, Activists, Scholars, and Artists*. Edited by Jodie Lawston and Ashley Lucas. State University of New York Press, 2011. ISBN: 9781438435329.            
 (You can skip ahead and read pp. 80–8 if pressed for time, begin reading at "Mothering from the Inside" and read the two case studies and conclusion.)
 
-Solinger, Rickie, Paula C. Johnson, et al. *Interrupted Life: Experiences of Incarcerated Women in the United States*. University of California Press, 2010. ISBN: 9780520258891.     
+Solinger, Rickie, Paula C. Johnson, et al. *Interrupted Life: Experiences of Incarcerated Women in the United States*. University of California Press, 2010. ISBN: 9780520258891.            
 (Selections, including first–person accounts of pregnancy and mothering from prison and of advocacy work by: Kimberly Burke, Tabitha and Christy Hall, Kebby Warner, Kathy Boudin, Joanne Archibald, Sophia Sanchez, Kemba Smith)
 
 Kraft-Stolar, Tamar. "A Fair Chance for Families Separated by Prison." Community Blog, North Star Fund. June 30, 2010.
