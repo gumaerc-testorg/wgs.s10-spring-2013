@@ -80,8 +80,8 @@ Tyler, Elaine. _Barren in the Promised Land: Childless Americans and the Pursuit
 Logistics
 ---------
 
-*   Please sign up for the {{% resource_link "85d1ae17-6272-42e8-b11a-c7105514c370" "Daily Women's Health Policy Report" %}}. This will help us to keep up with news about reproductive politics and health policy.
-*   You may also be interested in the {{% resource_link "800d7b49-daa8-4360-a0c0-fefc147c1e31" "Guttmacher Institute" %}}, which has research articles, data, and monthly updates on state policies governing reproductive health and rights.
+*   Please sign up for the [Daily Women's Health Policy Report](http://go.nationalpartnership.org/site/PageServer?pagename=report_daily). This will help us to keep up with news about reproductive politics and health policy.
+*   You may also be interested in the [Guttmacher Institute](http://www.guttmacher.org/), which has research articles, data, and monthly updates on state policies governing reproductive health and rights.
 *   The class chose how to spend the last two weeks of the semester:
     *   Read _Why Have Kids?: A New Mom Explores the Truth About Parenting and Happiness_ by Jessica Valenti. New Harvest, 2012. ISBN: 9780547892610
 
