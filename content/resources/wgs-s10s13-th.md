@@ -13,9 +13,9 @@ image_metadata:
   caption: This mural was designed by women imprisoned at Riker's Island, a jail in
     New York City, and was painted by the women's children on a wall in East Harlem.
     In addition, the children designed a mural that the mothers then painted inside
-    a building at Rikers. Read more about the project, {{% resource_link "3121c89f-06c0-47b9-90d8-3b2dab5bc9ee"
-    "If Walls Could Talk" %}}. (Image courtesy of {{% resource_link "c77e3540-6247-4ad5-9ba8-643013afc739"
-    "Matt Green" %}} on Flickr. CC NC-BY-SA.)
+    a building at Rikers. Read more about the project, [If Walls Could Talk](http://www.kickstarter.com/projects/130957112/if-walls-could-talk).
+    (Image courtesy of [Matt Green](http://www.flickr.com/photos/48099890@N08/9474408517/in/photolist-frdPyZ)
+    on Flickr. CC NC-BY-SA.)
   credit: Image courtesy of Matt Green on Flickr. CC NC-BY-SA.
   image-alt: A photographA mural painted on a wall features a body of water in which
     an African-American boy and a Caucasian girl stand.  The image of a woman surrounded
